@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.047,F:\delphi workspace\Unit1.dfm=E:\mydemos\Middlewarehttpapidemo\client\HttpAPIClient.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.845,F:\delphi workspace\Project1.dproj=E:\mydemos\Middlewarehttpapidemo\client\HttpAPIClientDemo.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.047,F:\delphi workspace\Unit1.pas=E:\mydemos\Middlewarehttpapidemo\client\HttpAPIClient.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.332,=F:\delphi workspace\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.368,=F:\delphi workspace\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
