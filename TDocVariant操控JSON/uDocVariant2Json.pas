@@ -164,12 +164,10 @@ begin
   doc.Init;
   Assert(doc.kind=dvUndefined);
   doc.AddValue('name','john');
-
   Assert(doc.Kind=dvObject);
   Assert(doc.Value['name']='john');
   doc.U['last name'] := 'hello';
   Assert(doc.u['last name']='hello');
-
   ShowMessage(doc.ToJSON());
 end;
 
