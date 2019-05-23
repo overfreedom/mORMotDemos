@@ -3,3 +3,6 @@
 *.exe
 *.dfm.*
 *.pas.*
+*.~dpr
+*.~pas
+*.~dfm
