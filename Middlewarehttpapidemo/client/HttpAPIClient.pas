@@ -8,8 +8,7 @@ uses
   IdComponent, IdTCPConnection, IdTCPClient, IdHTTP, SynCrtSock, SynCommons;
 
 type
-  pform = ^cform;
-  cform = class of TForm1;
+  pform = ^TForm1;
   TForm1 = class(TForm)
     idhtp1: TIdHTTP;
     btn1: TButton;
@@ -97,8 +96,9 @@ begin
   syndic.Add(tmpstr1,Form1);
 
 //  ShowMessage(pstring(syndic.FindValue(tmpstr1))^);
+  ShowMessage(pform(syndic.FindValue(tmpstr1))^.name);
 
-//  ShowMessage(pform(syndic.FindValue(tmpstr1))^^.name);
+  syndic.free;
 
 end;
 

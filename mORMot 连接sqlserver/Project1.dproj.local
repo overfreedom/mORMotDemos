@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.368,=F:\delphi workspace\Unit1.pas</Transaction>
+    <Transaction>2019-04-30 14:29:52.768,=F:\delphi workspace\Unit1.pas</Transaction>
+    <Transaction>2019-04-30 14:30:37.975,E:\mydemos\delphi\mORMot 连接sqlserver\Unit1.pas=F:\delphi workspace\Unit1.pas</Transaction>
+    <Transaction>2019-04-30 14:30:37.975,E:\mydemos\delphi\mORMot 连接sqlserver\Unit1.dfm=F:\delphi workspace\Unit1.dfm</Transaction>
+    <Transaction>2019-04-30 14:30:39.189,E:\mydemos\delphi\mORMot 连接sqlserver\Project1.dproj=F:\delphi workspace\Project1.dproj</Transaction>
+    <Transaction>2019-04-30 14:30:58.036,=E:\mydemos\delphi\mORMot 连接sqlserver\Unit2.pas</Transaction>
+    <Transaction>2019-04-30 14:31:53.092,E:\mydemos\delphi\mORMot 连接sqlserver\uBookModel.pas=E:\mydemos\delphi\mORMot 连接sqlserver\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
